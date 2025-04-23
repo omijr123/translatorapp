@@ -2,7 +2,14 @@
 
 A multilingual speech-to-text translation app built with **MIT App Inventor**. Convert spoken words into text and translate them into over 20 languages instantly!
 
-![App Preview](https://via.placeholder.com/400x800/0088cc/ffffff?text=Tap+%26+Talk+📱) **(Add your app screenshots here)***
+### 🖼️ **App Preview** 
+<p align="center">  
+  <img src="https://i.postimg.cc/pTBmbvsP/Screenshot-2025-04-23-211254.png" width="300" alt="Workout Demo"> 
+  <img src="https://i.postimg.cc/qMFzdjx6/Screenshot-2025-04-23-211316.png" width="300" alt="Workout Demo">  
+  <img src="https://i.postimg.cc/Pq94pWHC/Screenshot-2025-04-23-211813.png" width="300" alt="Workout Demo"> 
+  <img src="https://i.postimg.cc/zvX1LY8D/Screenshot-2025-04-23-211630.png" width="300" alt="Workout Demo"> 
+  <img src="https://i.postimg.cc/bNyQvCn6/Screenshot-2025-04-23-211823.png" width="300" alt="Workout Demo"> 
+</p>  
 
 ---
 
@@ -28,16 +35,6 @@ A multilingual speech-to-text translation app built with **MIT App Inventor**. C
 
 ---
 
-## 🛠️ Installation
-1. **Clone this repository** (or download the `.aia` project file).  
-2. Import the project into [MIT App Inventor](https://appinventor.mit.edu/).  
-3. Connect your device via **AI Companion** or build an APK.  
-
-⚠️ **Dependencies**:  
-- Internet connection for translation API.  
-- Microphone permission for speech recognition.  
-
----
 
 ## 🚀 Usage
 1. **Select Language**: Choose a target language from the dropdown.  
@@ -65,8 +62,4 @@ when Button1.Click
       textToTranslate: TextBox1.Text
   ...
 
-<p align="center">  
-  <img src="https://i.postimg.cc/Pq94pWHC/Screenshot-2025-04-23-211813.png" width="300" alt="Workout Demo"> 
-  <img src="https://i.postimg.cc/zvX1LY8D/Screenshot-2025-04-23-211630.png" width="300" alt="Workout Demo"> 
-  <img src="https://i.postimg.cc/bNyQvCn6/Screenshot-2025-04-23-211823.png" width="300" alt="Workout Demo"> 
-</p>  
+
