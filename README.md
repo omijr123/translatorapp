@@ -64,3 +64,9 @@ when Button1.Click
       languageToTranslateTo: "bn"
       textToTranslate: TextBox1.Text
   ...
+
+<p align="center">  
+  <img src="https://i.postimg.cc/Pq94pWHC/Screenshot-2025-04-23-211813.png" width="300" alt="Workout Demo"> 
+  <img src="https://i.postimg.cc/zvX1LY8D/Screenshot-2025-04-23-211630.png" width="300" alt="Workout Demo"> 
+  <img src="https://i.postimg.cc/bNyQvCn6/Screenshot-2025-04-23-211823.png" width="300" alt="Workout Demo"> 
+</p>  
