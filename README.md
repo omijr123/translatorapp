@@ -6,9 +6,9 @@ A multilingual speech-to-text translation app built with **MIT App Inventor**. C
 <p align="center">  
   <img src="https://i.postimg.cc/pTBmbvsP/Screenshot-2025-04-23-211254.png" width="300" alt="Workout Demo"> 
   <img src="https://i.postimg.cc/qMFzdjx6/Screenshot-2025-04-23-211316.png" width="300" alt="Workout Demo">  
-  <img src="https://i.postimg.cc/Pq94pWHC/Screenshot-2025-04-23-211813.png" width="300" alt="Workout Demo"> 
   <img src="https://i.postimg.cc/zvX1LY8D/Screenshot-2025-04-23-211630.png" width="300" alt="Workout Demo"> 
   <img src="https://i.postimg.cc/bNyQvCn6/Screenshot-2025-04-23-211823.png" width="300" alt="Workout Demo"> 
+   <img src="https://i.postimg.cc/Pq94pWHC/Screenshot-2025-04-23-211813.png" width="300" alt="Workout Demo"> 
 </p>  
 
 ---
@@ -42,7 +42,6 @@ A multilingual speech-to-text translation app built with **MIT App Inventor**. C
 3. **Translate**: Press the translate button to convert your speech.  
 4. **Clear**: Use the clear button to reset text fields.  
 
-![Workflow GIF](https://via.placeholder.com/600x300/0088cc/ffffff?text=Speak→Translate→Read✓)  
 
 ---
 
