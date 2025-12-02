@@ -73,9 +73,9 @@ The Translator App is an intuitive Android application built using **MIT App Inv
 | <img src="https://i.postimg.cc/pTBmbvsP/Screenshot-2025-04-23-211254.png" width="200"> | <img src="https://i.postimg.cc/qMFzdjx6/Screenshot-2025-04-23-211316.png" width="200"> | <img src="https://i.postimg.cc/bNyQvCn6/Screenshot-2025-04-23-211823.png" width="200"> |
 
 ### Additional Views
-| Translation History | Settings Menu | About Page |
-|---------------------|---------------|------------|
-| <img src="https://i.postimg.cc/zvX1LY8D/Screenshot-2025-04-23-211630.png" width="200"> | <img src="https://i.postimg.cc/Pq94pWHC/Screenshot-2025-04-23-211813.png" width="200"> | <img src="https://via.placeholder.com/200x400/4e89ae/ffffff?text=About+Page" width="200"> |
+| Translation History | Settings Menu | 
+|---------------------|---------------|
+| <img src="https://i.postimg.cc/zvX1LY8D/Screenshot-2025-04-23-211630.png" width="200"> | <img src="https://i.postimg.cc/Pq94pWHC/Screenshot-2025-04-23-211813.png" width="200"> | 
 
 </div>
 
@@ -475,8 +475,5 @@ If you use this project, please credit:
 
 If you find this app useful, consider:
 - ⭐ **Starring the repository**
-- 🐛 **Reporting issues** you encounter
-- 💡 **Suggesting new features**
-- 📢 **Sharing with friends**
 
 </div>
