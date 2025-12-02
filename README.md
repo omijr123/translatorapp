@@ -463,7 +463,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### Attribution
 If you use this project, please credit:
-- **Translator App** by [Your Name]
+- **Translator App** by [Jablay Noor Rahman]
 - Built with MIT App Inventor
 - Translation services by Google/Microsoft (as applicable)
 
@@ -471,9 +471,6 @@ If you use this project, please credit:
 
 <div align="center">
 
-## 🌟 Support the Project
 
-If you find this app useful, consider:
-- ⭐ **Starring the repository**
 
 </div>
